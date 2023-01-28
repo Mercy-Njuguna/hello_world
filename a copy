@@ -1,0 +1,3 @@
+i am loving the progress.
+
+aThis is helpful when you want to add new features to a project without changing the main source of code. The work done on different branches will not show up on the main branch until you merge it, which we will cover later in this guide. You can use branches to experiment and make edits before committing them to main.
